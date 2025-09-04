@@ -9,7 +9,7 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 
 - Who purchased more - Men or Women?
 
-- What are different order status in 2022?
+- What are different order status in 2025?
 
 - List top 10 states contributingto the sales?
 
