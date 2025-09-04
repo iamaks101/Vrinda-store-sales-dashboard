@@ -1,2 +1,1 @@
-# Vrinda-store-sales-dashboard
-I developed a comprehensive project in Excel that includes multiple dashboards and tables for analyzing Vrinda Store’s sales data. The project covers the complete workflow—starting from data preprocessing and cleaning, followed by creating interactive visualizations and insightful dashboards to highlight key business trends.
+The Vrinda Store wants to create an annual sales report for 2025. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2026 & 2027.
