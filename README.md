@@ -21,7 +21,7 @@ The Vrinda Store wants to create an annual sales report for 2025. So that, the o
 
 - Percentage of Total Orders delivered
 
-Dashboard Interaction <a href="https://github.com/iamaks101/Vrinda-store-sales-dashboard/blob/main/Vrinda%20Store%20Sales%20Dashboard.png>view Dashboard</a>
+- Dashboard Interaction <a href ="https://github.com/iamaks101/Vrinda-store-sales-dashboard/blob/main/Vrinda%20Store%20Sales%20Dashboard.png"> view Dashboard </a>
 ##Process
 Verify data for any missing values and anomalies, and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
