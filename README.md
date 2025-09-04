@@ -20,3 +20,13 @@ Which Channel is contributing maximum to the sales?
 Highest selling category?
 
 Percentage of Total Orders delivered
+
+Dashboard Interaction <a href="https://github.com/iamaks101/Vrinda-store-sales-dashboard/blob/main/Vrinda%20Store%20Sales%20Dashboard.png>view Dashboard</a>
+##Process
+Verify data for any missing values and anomalies, and sort out the same.
+Made sure data is consistent and clean with respect to data type, data format and values used.
+Created pivot tables according to the questions asked.
+Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+<img width="1156" height="527" alt="Vrinda Store Sales Dashboard" src="https://github.com/user-attachments/assets/ec4d5a51-1954-47a0-bde1-c0d0facfa48e" />
+
